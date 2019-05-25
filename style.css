@@ -26,7 +26,7 @@ h1 {
 } 
 
 .eyes {
-	
+	display: flex
 }
 
 .head:hover {
@@ -118,7 +118,7 @@ h1 {
 
 .right_eye { 
 	position:relative; 
-	top: 80px;
+	top: 100px;
 	left: 120px; 
 }
 
